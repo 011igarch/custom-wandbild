@@ -1,0 +1,87 @@
+{
+  "layouts": [
+    {
+      "id": 1,
+      "name": "Layout 1",
+      "image": "path/to/layout1-image.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Layout 2",
+      "image": "path/to/layout2-image.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Layout 3",
+      "image": "path/to/layout3-image.jpg"
+    }
+  ],
+  "colors": [
+    {
+      "id": "schwarz",
+      "name": "Schwarz",
+      "value": "#000000"
+    },
+    {
+      "id": "rot",
+      "name": "Rot",
+      "value": "#FF0000"
+    },
+    {
+      "id": "blau",
+      "name": "Blau",
+      "value": "#0000FF"
+    }
+  ],
+  "frames": [
+    {
+      "id": 1,
+      "name": "+ Infinity Frame",
+      "price": 50.0
+    },
+    {
+      "id": 2,
+      "name": "+ Lightbox",
+      "price": 30.0
+    },
+    {
+      "id": 3,
+      "name": "+ Print Only",
+      "price": 20.0
+    }
+  ],
+  "depths": [
+    {
+      "id": "5cm",
+      "name": "5 cm",
+      "price": 10.0
+    },
+    {
+      "id": "10cm",
+      "name": "10 cm",
+      "price": 15.0
+    }
+  ],
+  "sizes": [
+    {
+      "id": "24x24",
+      "name": "24 x 24",
+      "price": 25.0
+    },
+    {
+      "id": "30x30",
+      "name": "30 x 30",
+      "price": 35.0
+    },
+    {
+      "id": "36x36",
+      "name": "36 x 36",
+      "price": 45.0
+    },
+    {
+      "id": "42x42",
+      "name": "42 x 42",
+      "price": 55.0
+    }
+  ]
+}
